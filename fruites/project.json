@@ -1,8 +1,25 @@
 {
-  "title": "COLORS",
+  "title": "FRUITES",
   "author": "Ani Clemente (Maestra Educación Especial)",
-  "school": "Escola Tramuntana",
-  "date": "6/05/20",
+  "date": "11/05/20",
+  "langCodes": [
+    "ca"
+  ],
+  "languages": {
+    "es": "catalán"
+  },
+  "areaCodes": [
+    "lleng"
+  ],
+  "areas": {
+    "es": "Lenguas"
+  },
+  "levelCodes": [
+    "INF"
+  ],
+  "levels": {
+    "es": "Infantil (3-6)"
+  },
   "description": {},
   "license": {
     "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
@@ -10,62 +27,40 @@
   "meta_langs": [
     "es"
   ],
-  "mainFile": "COLORS.jclic",
-  "cover": "project-cover.jpg",
+  "cover": "frutas_1.png",
+  "mainFile": "fruites.jclic",
   "thumbnail": "project-thumb.jpg",
-  "activities": 16,
-  "mediaFiles": 43,
-  "totalSize": 1423973,
+  "activities": 23,
+  "mediaFiles": 23,
+  "totalSize": 699993,
   "files": [
-    "COLORS.jclic",
-    "COLORS.jclic.js",
-    "amarillo-fruites.png",
     "amarillo.png",
-    "azul-fruites.png",
-    "azul.png",
-    "blau-fruites.mp3",
-    "blau.mp3",
-    "buscar-fruites.png",
-    "buscar.png",
-    "buscar_1-fruites.png",
-    "buscar_1.png",
-    "contento-fruites.png",
-    "contento.png",
-    "contento_1-fruites.png",
-    "contento_1.png",
+    "cerezas.png",
     "favicon.ico",
+    "fresa.png",
     "fruites.jclic",
     "fruites.jclic.js",
-    "groc-fruites.mp3",
-    "groc.mp3",
+    "frutas_1.png",
     "icon-192.png",
     "icon-72.png",
     "imsmanifest.xml",
     "index.html",
-    "mirar_1-fruites.png",
-    "mirar_1.png",
-    "negre-fruites.mp3",
-    "negre.mp3",
-    "negro-fruites.png",
-    "negro.png",
-    "project-cover.jpg",
+    "limon.png",
+    "manzana_2.png",
+    "melocoton_1.png",
+    "melon.png",
+    "naranja.png",
+    "naranja_1.png",
+    "pera.mp3",
+    "pera_1.png",
+    "pina_1.png",
+    "platano.png",
+    "poma.mp3",
+    "premio_1.png",
     "project-thumb.jpg",
     "project.json",
-    "relacionar-fruites.png",
-    "relacionar.png",
-    "rojo-fruites.png",
+    "racimo_de_uvas.png",
     "rojo.png",
-    "rosa-fruites.mp3",
-    "rosa-fruites.png",
-    "rosa.mp3",
-    "rosa.png",
-    "rosa_1-fruites.png",
-    "rosa_1.png",
-    "verd-fruites.mp3",
-    "verd.mp3",
-    "verde-fruites.png",
-    "verde.png",
-    "vermell-fruites.mp3",
-    "vermell.mp3"
+    "sandia.png"
   ]
 }
