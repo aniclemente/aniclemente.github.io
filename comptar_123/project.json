@@ -1,0 +1,90 @@
+{
+  "title": "COMPTAR 123",
+  "author": "Ani Clemente Romero",
+  "school": "Escola Tramuntana",
+  "date": "19/05/20",
+  "areaCodes": [
+    "mat"
+  ],
+  "areas": {
+    "es": "Matemáticas"
+  },
+  "levelCodes": [
+    "INF"
+  ],
+  "levels": {
+    "es": "Infantil (3-6)"
+  },
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "cover": "NUMEROS-resized.jpg",
+  "mainFile": "comptar_123.jclic",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 30,
+  "mediaFiles": 52,
+  "totalSize": 3593232,
+  "files": [
+    "1_chuches.png",
+    "1_donut.png",
+    "1_donut_xoco.png",
+    "1_eli.png",
+    "1_fuet.png",
+    "1_galleta.png",
+    "1_lacasito.png",
+    "1_mcdonals.png",
+    "1_mickey.png",
+    "1_nubes_chuche.png",
+    "1_patata.png",
+    "1_pelotazo.png",
+    "1_piruleta.png",
+    "1_pocoyo.png",
+    "2_chuches.png",
+    "2_donut_xoco.png",
+    "2_donuts.png",
+    "2_eli.png",
+    "2_fuet.png",
+    "2_galletas.png",
+    "2_lacasitos.png",
+    "2_mcdonals.png",
+    "2_mickey.png",
+    "2_nubes_chuche.png",
+    "2_patates.png",
+    "2_pelotazos.png",
+    "2_piruletas.png",
+    "2_pocoyo.png",
+    "3_chuches.png",
+    "3_donut_xoco.png",
+    "3_donuts.png",
+    "3_eli.png",
+    "3_fuet.png",
+    "3_galletas.png",
+    "3_lacasitos.png",
+    "3_mcdonals.png",
+    "3_mickey.png",
+    "3_nubes_chuche.png",
+    "3_patates.png",
+    "3_pelotazos.png",
+    "3_piruletas.png",
+    "3_pocoyo.png",
+    "comptar_123.jclic",
+    "comptar_123.jclic.js",
+    "contento_2.png",
+    "dos.png",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "numeros-resized.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "tres.png",
+    "trofeo.png",
+    "uno.png"
+  ]
+}
