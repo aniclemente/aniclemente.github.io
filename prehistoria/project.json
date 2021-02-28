@@ -1,0 +1,95 @@
+{
+  "title": "PREHISTORIA",
+  "date": "28/02/21",
+  "areaCodes": [
+    "exp"
+  ],
+  "areas": {
+    "es": "Ciencias experimentales"
+  },
+  "levelCodes": [
+    "INF",
+    "PRI"
+  ],
+  "levels": {
+    "es": "Infantil (3-6), Primaria (6-12)"
+  },
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "prehistoria.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 24,
+  "mediaFiles": 56,
+  "totalSize": 1838502,
+  "files": [
+    "1_mamut.png",
+    "2_homes.png",
+    "2_mamut.png",
+    "2_peixos.png",
+    "3_homes.png",
+    "3_mamut.png",
+    "3_peixos.png",
+    "40692e2826f4f308f884ea4042724d57.jpg",
+    "45be06c6e6d4a5b70ed81e4ac3fa4708.jpg",
+    "4_homes.png",
+    "4_mamut.png",
+    "4_peixos.png",
+    "59cfc5ecd3b1936210a5ddce.png",
+    "5_homes.png",
+    "5_mamut.png",
+    "5_peixos.png",
+    "6_homes.png",
+    "6_mamut.png",
+    "6_peixos.png",
+    "altamira.png",
+    "altamirabison-resized.jpg",
+    "bifaz.png",
+    "carne.png",
+    "cavernicola.png",
+    "cavernicola__1_.png",
+    "cavernicola__2_.png",
+    "cazar.png",
+    "cinco.png",
+    "cuatro.png",
+    "cueva.png",
+    "descarga.jpg",
+    "donut.png",
+    "dos.png",
+    "espaguetis.png",
+    "favicon.ico",
+    "fruta.png",
+    "fuego.png",
+    "hacha.png",
+    "hamburguesa_y_patatas_fritas.png",
+    "helado.png",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "lanza-desmontable-con-lazo-152-cm-118018.jpg",
+    "lanza.png",
+    "mamut.png",
+    "mamut2.png",
+    "pez__1_.png",
+    "piedra.png",
+    "pirofobia-fobia-fuego.jpg",
+    "pizza.png",
+    "prehistoria.jclic",
+    "prehistoria.jclic.js",
+    "prehistoria2-e1539025798954.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "seis.png",
+    "tres.png",
+    "uno__1_.png"
+  ]
+}
